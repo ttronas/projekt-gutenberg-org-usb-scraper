@@ -1,4 +1,4 @@
-# projekt-gutenberg-org-usb-scraper
+# projekt-gutenberg-usb-scraper
 A simple scraper script to read and convert all `.html`files to `.epub` format from a USB drive purchased from Projekt-Gutenberg.org.  
 ## What is the problem?
 [Projekt-Gutenberg.org](https://projekt-gutenberg.org) is the German (not-so-nice) pendant to [Project Gutenberg](https://gutenberg.org). 
