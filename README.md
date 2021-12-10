@@ -8,7 +8,7 @@ This script aims to remedy the issue for the USB-drives they sell.
 ## What to expect?
 The code is quite janky, and the user needs to make sure to have `pandoc` installed and callable from the command line.  
 It can be run from Linux-Terminals and is proven to work with `pandoc 2.5` on `WSL Ubuntu 20.04`.  
-**This code is not tested and won't run on the Projekt-Gutenberg.org-Website!**
+**This code is not tested and therefore most probably won't run on the Projekt-Gutenberg.org-Website!**
 ## How to use?
 Follow these steps:
 1. Copy the content of the USB drive in a folder to your local machine.  
